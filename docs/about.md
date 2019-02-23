@@ -43,4 +43,4 @@ it's the responsibility of the community to discuss and address it.
 
 Now that you've learned a little about OCI, we suggest that you start with our introductory material.
 
-[Introduction]({{ site.baseurl }}introduction/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Introduction]({{ site.baseurl }}introduction){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

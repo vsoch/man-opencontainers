@@ -56,4 +56,4 @@ offers an entire new space of challenges. Read about
 You made it to the bottom! Now that have an understanding of containers and the specifications, you should
 next read about how to contribute.
 
-[Contributing]({{ site.baseurl }}docs/contribute/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Contributing]({{ site.baseurl }}contributing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
