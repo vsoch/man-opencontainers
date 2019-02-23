@@ -146,4 +146,4 @@ You might have an entirely different operating system or technology that you wan
 
 What are you waiting for? We want to hear from you!
 
-[Contribute]({{ site.baseurl }}contribute/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Contribute]({{ site.baseurl }}docs/contribute/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
